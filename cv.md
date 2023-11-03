@@ -6,6 +6,7 @@
 - **Lugar de Nacimiento:** Godric's Hollow, Inglaterra
 - **Email:** harry@hogwarts.com
 - **Teléfono:** +44 123 456 789
+- **Vehículo:** Hipogrifo y Saeta de Fuego
 
 ## **Perfil** :star:
 Soy un mago graduado de la *Escuela de Magia y Hechicería de Hogwarts* con experiencia en la lucha contra las artes oscuras. Me especializo en la defensa contra las artes oscuras y he participado en la derrota del mago tenebroso Lord Voldemort.
@@ -23,6 +24,10 @@ Soy un mago graduado de la *Escuela de Magia y Hechicería de Hogwarts* con expe
 
 ## **Habilidades** :mage:
 - Defensa Contra las Artes Oscuras
+- Transformación animaga
+- Resistencia mágica
+- Lengua Parsel
+- Teletransportación con polvos FLU
 - Hechicería Avanzada
 - Vuelo en Escoba
 - Transformaciones

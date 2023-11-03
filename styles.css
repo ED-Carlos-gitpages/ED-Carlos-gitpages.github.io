@@ -7,15 +7,15 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #af4c4c;
+    color: darkorange;
     text-align: center;
     padding: 1rem;
 }
 
 nav {
     background-color: #333;
-    color: white;
+    color: darkorange;
     padding: 0.5rem;
 }
 
@@ -31,7 +31,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: darkorange;
     text-decoration: none;
 }
 
@@ -40,8 +40,8 @@ nav ul li a {
 }
 
 footer {
-    background-color: #4CAF50;
-    color: white;
+    background-color: #af4c4c;
+    color: darkorange;
     text-align: center;
     padding: 1rem;
     position: fixed;
